@@ -1,0 +1,7 @@
+@import url('https://fonts.cdnfonts.com/css/axiforma');
+@import url('https://fonts.cdnfonts.com/css/red-hat-display');
+@import url('https://fonts.cdnfonts.com/css/red-hat-text');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
